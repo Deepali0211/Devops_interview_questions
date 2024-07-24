@@ -7,12 +7,16 @@ GIT
 2. Let's say i have maven repo cloned on to my local, did some changes and i have build the code now target folder will be generated. So now when i do git operations like git add, git commit or any other git operations target folder should not be considered, how would you achieve the same?
 3. difference between git pull and git fetch?
 4. How to clone specific branch in git?
+5. which branching startegy used in your project
+6. difference betwween rebase and merge
+7. how to create tags in git
 
 Maven
 --------------------------------------------------------------------------------------------------------------------------
 5. when i issue mvn install what all things happen in background?
 6. what are the settings you need to do before running mvn deploy?
 7. why maven takes much time for 1st execution and from 2nd execution it will take less time?
+8. which command is used to skip the tests
 
 Unix and Shell Scripting 
 --------------------------------------------------------------------------------------------------------
@@ -34,6 +38,9 @@ Jenkins
 17. Have you worked on Jenknsfile? can we use docker container as a node in Jenkinsfile? Who will handle docker container creation and deletion? If i am building a maven project always docker container is fresh instance it will try to download dependency from repository, what measures you will take to reduce build time?
 18. Why we need multi branch pipeline?
 19. If you forget Jenkins password, how would you login back?
+20. if master node got correptued, how you resolve this issue.
+21. How to take backup in jenkins
+22. how to configure agents in jenkins
 
 Docker
 ------------------------------------------------------------------------------------------------------------------------------
